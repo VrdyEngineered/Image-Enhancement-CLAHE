@@ -9,7 +9,7 @@ Medical images often suffer from **noise** and **low contrast** due to limitatio
 ## 👥 Authors
 - **Chivirala Vignesh (BT23ECI031)**  
 - **Gundrathi Aprameya Goud (BT23ECI035)**  
-- **Chilla Vivek Reddy (BT23ECI037)**  
+- [**Chilla Vivek Reddy (BT23ECI037)**](https://github.com/VrdyEngineered)  
 > *Department of Electronics and Communication Engineering (IoT)*  
 > *Indian Institute of Information Technology, Nagpur*
 
