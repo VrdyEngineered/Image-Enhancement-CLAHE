@@ -93,7 +93,7 @@ It improves visibility of fine structures, supports accurate diagnosis, and serv
 ---
 
 ## 🙏 Acknowledgments
-Special thanks to **Dr. Tapan K. Jain** for his guidance and support.  
+Special thanks to **Dr. Tapan K. Jain** sir for his guidance and support.  
 We also acknowledge the contributions of peers, open-source datasets, and tools that made this work possible.
 
 ---
